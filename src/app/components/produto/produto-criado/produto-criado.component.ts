@@ -11,5 +11,5 @@ export class ProdutoCriadoComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  
 }
